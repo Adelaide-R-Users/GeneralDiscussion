@@ -13,7 +13,7 @@ Putting R in the internet tubes; An introduction to blogdown! Blogdown is an R p
 Sometimes our datasets are just too darn big. In this talk we'll look at using SparkR to spread our data and data transformations over a cluster of machines.
 
 ##Code of conduct
-All participants at this meet-up agree to abide by the R Consortum [code of conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct). In particular, as members of the R comunnity, participants agree to be:
+All participants at this meet-up agree to abide by the R Consortium [code of conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct). In particular, as members of the R comunnity, participants agree to be:
 
 Open: Members of the community are open to collaboration, whether it's on projects, working groups, packages, problems, or otherwise. We're receptive to constructive comment and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts. We're accepting of anyone who wishes to take part in our activities, fostering an environment where all can participate and everyone can make a difference.
 
